@@ -1,0 +1,13 @@
+.font{
+  font-style: italic;
+}
+ body{
+  background-color: blue;
+ }
+.text{
+  font-weight: bold;
+}
+.list{
+  font-style: italic;
+  font-weight: bold;
+}
